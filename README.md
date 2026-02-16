@@ -13,10 +13,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Passionate+about+Clean+Code;Always+Learning+New+Technologies" />
-</p>
 ## 💻 Tech Stack
-
-<p align="center">
 
   <!-- 🧱 Web Static -->
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap" />
