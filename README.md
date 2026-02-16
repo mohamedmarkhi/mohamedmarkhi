@@ -12,8 +12,9 @@
 <h2 align="center">🚀 Tech Stack & The Skills</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,php,mysql,mongodb,aws,git,github,gitlab,jira,laravel" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Passionate+about+Clean+Code;Always+Learning+New+Technologies" />
 </p>
+
 ⭐️ By MARKHI Mohamed
 
 ---
