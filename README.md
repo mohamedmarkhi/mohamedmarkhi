@@ -1,16 +1,46 @@
-## Hi there 👋
 
-<!--
-**mohamedmarkhi/mohamedmarkhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>MARKHI. M</h1>
+<h2 align="center">📊 GitHub Stats</h2>
 
-Here are some ideas to get you started:
+## 📈 Contribution Graph
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedmarkhi&theme=tokyo-night" />
+</p>
+
+---
+<h2 align="center">🚀 Tech Stack & The Skills</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,php,mysql,mongodb,aws,git,github,gitlab,jira,laravel" />
+</p>
+⭐️ By MARKHI Mohamed
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/mohamedmarkhi">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <div align="center">
+</div>
+  <img src="https://github.com/user-attachments/assets/a80a4431-c890-4280-bc85-53c08717c74c" 
+       width="90%" 
+       height="45%" 
+       style="object-fit: contain; max-width: 1200px; background: black;"
+       alt="Profile GIF">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  
+</picture>
