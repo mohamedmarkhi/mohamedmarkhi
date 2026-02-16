@@ -1,47 +1,41 @@
+<h1 align="center">MARKHI Mohamed</h1>
+<h3 align="center">Full Stack Developer | Clean Code Enthusiast 🚀</h3>
 
-<h1>MARKHI. M</h1>
-<h2 align="center">📊 GitHub Stats</h2>
+---
 
-## 📈 Contribution Graph
+<h2 align="center">📊 GitHub Performance</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedmarkhi&theme=tokyo-night" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedmarkhi&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br><br>
+  <img src="https://streak-stats.demolab.com?user=mohamedmarkhi&theme=tokyonight&hide_border=true" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedmarkhi&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
-<h2 align="center">🚀 Tech Stack & The Skills</h2>
+
+<h2 align="center">🚀 Tech Stack & Skills</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Passionate+about+Clean+Code;Always+Learning+New+Technologies" />
-## 💻 Tech Stack
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,redux,php,laravel,spring,mysql,mongodb,aws,docker,git,github,gitlab,jira,sonarqube,figma" />
+</p>
 
-  <!-- 🧱 Web Static -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap" />
-  <br><br> 
-
-  <!-- ⚙️ Web Dynamic -->
-  <img src="https://skillicons.dev/icons?i=react,redux,php,laravel,spring" />
-  <br><br>
-
-  <!-- 🗄️ Databases -->
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-  <br><br>
-
-  <!-- 🚀 DevOps & Tools -->
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,gitlab,jira" />
-  <img src="https://skillicons.dev/icons?i=sonarqube" height="48"/>
-  <br><br>
-
-  <!-- 🎨 Design & Modeling -->
-  <img src="https://skillicons.dev/icons?i=figma" />
+<p align="center">
   <img src="https://img.shields.io/badge/StarUML-1D1D1D?style=for-the-badge&logo=uml&logoColor=white" />
-
 </p>
-⭐️ By MARKHI Mohamed
 
 ---
 
-## 📫 Connect With Me
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedmarkhi&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+<h2 align="center">📫 Connect With Me</h2>
 
 <p align="center">
   <a href="https://github.com/mohamedmarkhi">
@@ -49,22 +43,17 @@
   </a>
 </p>
 
+---
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <div align="center">
-</div>
-  <img src="https://github.com/user-attachments/assets/a80a4431-c890-4280-bc85-53c08717c74c" 
-       width="90%" 
-       height="45%" 
-       style="object-fit: contain; max-width: 1200px; background: black;"
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a80a4431-c890-4280-bc85-53c08717c74c"
+       width="80%"
+       style="max-width:1000px;"
        alt="Profile GIF">
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  
-</picture>
+</p>
+
+---
+
+<p align="center">
+⭐️ By MARKHI Mohamed
+</p>
