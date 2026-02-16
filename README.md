@@ -25,32 +25,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-## 💻 Tech Stack
 
-<p align="center">
-
-  <!-- 🧱 Web Static -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap" />
-  <br><br>
-
-  <!-- ⚙️ Web Dynamic -->
-  <img src="https://skillicons.dev/icons?i=react,redux,php,laravel,spring" />
-  <br><br>
-
-  <!-- 🗄️ Databases -->
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-  <br><br>
-
-  <!-- 🚀 DevOps & Tools -->
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,gitlab,jira" />
-  <img src="https://skillicons.dev/icons?i=sonarqube" height="48"/>
-  <br><br>
-
-  <!-- 🎨 Design & Modeling -->
-  <img src="https://skillicons.dev/icons?i=figma" />
-  <img src="https://img.shields.io/badge/StarUML-1D1D1D?style=for-the-badge&logo=uml&logoColor=white" />
-
-</p>
 
 <picture>
   <source
