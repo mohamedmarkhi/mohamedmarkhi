@@ -12,7 +12,33 @@
 <h2 align="center">🚀 Tech Stack & The Skills</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,php,mysql,mongodb,aws,git,github,gitlab,jira,laravel" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Passionate+about+Clean+Code;Always+Learning+New+Technologies" />
+</p>
+## 💻 Tech Stack
+
+<p align="center">
+
+  <!-- 🧱 Web Static -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap" />
+  <br><br> 
+
+  <!-- ⚙️ Web Dynamic -->
+  <img src="https://skillicons.dev/icons?i=react,redux,php,laravel,spring" />
+  <br><br>
+
+  <!-- 🗄️ Databases -->
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <br><br>
+
+  <!-- 🚀 DevOps & Tools -->
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,gitlab,jira" />
+  <img src="https://skillicons.dev/icons?i=sonarqube" height="48"/>
+  <br><br>
+
+  <!-- 🎨 Design & Modeling -->
+  <img src="https://skillicons.dev/icons?i=figma" />
+  <img src="https://img.shields.io/badge/StarUML-1D1D1D?style=for-the-badge&logo=uml&logoColor=white" />
+
 </p>
 ⭐️ By MARKHI Mohamed
 
